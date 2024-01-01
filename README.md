@@ -7,5 +7,6 @@
 ### Run TypeScript File 
 
 (tsc index.ts -> index.js -> node index.js)
+(fixed compiler tsc index.ts --watch)
 - 1. tsc fileName with extension
 - 2. node JavaScript file Name with extension
