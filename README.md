@@ -1,12 +1,19 @@
 ## TypeScript
 
+# 3
 - Install global : npm install -g typescript
 - Install Locally : npm install --save-dev typescript
 - TypeScript Version : 5.3.3
 
 ### Run TypeScript File 
 
-(tsc index.ts -> index.js -> node index.js)
+(tsc index.ts -> index.js -> node index.js) <br>
 (fixed compiler tsc index.ts --watch)
 - 1. tsc fileName with extension
 - 2. node JavaScript file Name with extension
+
+# 4 data type
+
+- Any (Supper type)
+build in type: number, string, boolean, void, null, undefined, etc.
+user defined type: array, Enums, Classes, interface, etc.
