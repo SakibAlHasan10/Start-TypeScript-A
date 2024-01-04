@@ -1,6 +1,4 @@
 // built-in data types : number, string, boolean, void, undefined, null
-
-let userId:number;
-let userName :string;
-let isActivated : boolean;
- 
+var userId;
+var userName;
+var isActivated;

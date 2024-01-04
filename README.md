@@ -17,3 +17,6 @@
 - Any (Supper type)
 build in type: number, string, boolean, void, null, undefined, etc.
 user defined type: array, Enums, Classes, interface, etc.
+
+- Example of build-in types
+    let firstName : string;
