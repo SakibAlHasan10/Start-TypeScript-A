@@ -33,3 +33,6 @@ user defined type: array, Enums, Classes, interface, etc.
 
 
  #### 5.2 Array
+
+ - Array type similar data type
+ // let user = ["salib", "Ali", "Al Amin"]
