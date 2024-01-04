@@ -23,9 +23,13 @@ user defined type: array, Enums, Classes, interface, etc.
 - Void 
     -Functions that do not return anything are void
 
-- User defined data type
+- ### User defined data type
+
 #### 5.1 Union Type
 
 - union type -more then one type for variable or function parameter.
 
  -let userId : string | number
+
+
+ #### 5.2 Array
