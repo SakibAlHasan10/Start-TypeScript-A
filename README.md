@@ -22,3 +22,10 @@ user defined type: array, Enums, Classes, interface, etc.
     -let firstName : string;
 - Void 
     -Functions that do not return anything are void
+
+- User defined data type
+#### 5.1 Union Type
+
+- union type -more then one type for variable or function parameter.
+
+ -let userId : string | number
