@@ -36,3 +36,8 @@ user defined type: array, Enums, Classes, interface, etc.
 
  - Array type similar data type
  // let user = ["salib", "Ali", "Al Amin"]
+
+ #### 5.3 Tuple type
+
+ - Tuple Type - mixed data type
+ 
